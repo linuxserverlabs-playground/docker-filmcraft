@@ -8,6 +8,6 @@ The image is in review. It lives in this repository's first pull request, which 
 report with screenshots and a pull command, so you can try it before it is released. Nothing is published from this
 branch until a team member merges that pull request.
 
-Proposal: <link>
+Proposal: https://github.com/linuxserverlabs-playground/proposals/issues/3
 
 To suggest an image of your own, see [how proposals work](https://github.com/linuxserverlabs-playground/proposals#readme).
